@@ -4,6 +4,10 @@
 
 https://dashboard.eventengine.run/login
 
+## 0. Lab SETUP
+
+https://containers-immersionday.workshop.aws/setup/cloneimmersiondayrepo.html
+
 ## 1. Getting Started with Docker and Container
 
 https://containers-immersionday.workshop.aws/contdock/dockerbasics.html
