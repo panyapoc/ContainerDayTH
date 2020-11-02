@@ -6,7 +6,11 @@ https://dashboard.eventengine.run/login
 
 ## 0. Lab SETUP
 
-https://containers-immersionday.workshop.aws/setup/cloneimmersiondayrepo.html
+1. [Deploy CloudFormation](https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/new?stackName=mysfits-fargate&templateURL=https://s3.amazonaws.com/mythical-mysfits-website/fargate/core.yml)
+
+1. Set Up Cloud 9
+
+1. Follow this setup guide https://containers-immersionday.workshop.aws/setup/cloneimmersiondayrepo.html
 
 ## 1. Getting Started with Docker and Container
 
