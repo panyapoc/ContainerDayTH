@@ -2,21 +2,22 @@
 
 ## Access to AWS environment 🏁
 
-https://dashboard.eventengine.run/login
+🔗[**Start Here**](https://dashboard.eventengine.run/login)
 
-## 0. Lab SETUP
+## Module 1 Docker Basics
 
-1. Follow this setup guide https://containers-immersionday.workshop.aws/setup/cloneimmersiondayrepo.html
+🔗[**Docker Basics**](https://dashboard.eventengine.run/login) https://containers-immersionday.workshop.aws/contdock/dockerbasics.html
 
-## 1. Lab 1 - Introduction to Containers & Docker
+## Module 2 Mystical Mysfit
 
-https://containers-immersionday.workshop.aws/contdock/dockerbasics.html
+### Part 1 : Containerize Application to Amazon ECR
 
-## 2. Lab 2 - Amazon ECR
+🔗[**Containerize Application to Amazon ECR**](https://containers-immersionday.workshop.aws/ecs/containerize_the_mythical_mysfits_monolith.html) 
 
-https://containers-immersionday.workshop.aws/ecs/containerize_the_mythical_mysfits_monolith.html
+### Part 2 : Amazon ECS and AWS Fargate
 
-## 3. Lab 3 - Amazon ECS and AWS Fargate
+🔗[**Amazon ECS and AWS Fargate**](https://containers-immersionday.workshop.aws/ecs/deploy_the_container_using_aws_fargate.html) 
 
-https://containers-immersionday.workshop.aws/ecs/deploy_the_container_using_aws_fargate.html
+
+## Useful resources
 
